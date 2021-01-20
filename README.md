@@ -1,1 +1,1 @@
-# PRL2020-Ass1
+Neural Network implementation with Batch SGD.
